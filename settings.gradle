@@ -1,0 +1,2 @@
+rootProject.name = "AndroidVersionHistory"
+include ':app'
